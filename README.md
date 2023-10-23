@@ -35,9 +35,7 @@ To initiate this project, follow these steps:
 
 The landing page for the application looks like the following on a standard HD screen 1920*1080 display.
 
-    ```md
-    ![alt text](assets/images/landing_page_screenshot)
-    ```
+    ![alt text](/assets/images/landing_page_screenshot.png)
 
 ## Deployed Application
 

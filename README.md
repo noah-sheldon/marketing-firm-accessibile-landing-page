@@ -35,13 +35,13 @@ To initiate this project, follow these steps:
 
 The landing page for the application looks like the following on a standard HD screen 1920*1080 display.
 
-    ![alt text](/assets/images/landing_page_screenshot.png)
+![alt text](/assets/images/landing_page_screenshot.png)
 
 ## Deployed Application
 
 The web page for the deployed application.
 
-    [Click here](https://noah-sheldon.github.io/marketing-firm-accessibile-landing-page/)
+[Click here](https://noah-sheldon.github.io/marketing-firm-accessibile-landing-page/)
 
 
 ## License
